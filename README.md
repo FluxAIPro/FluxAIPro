@@ -12,6 +12,7 @@ FluxAI.pro is a powerful AI platform offering cutting-edge image and video gener
 | **[RecraftAI](https://fluxai.pro/recraft-ai)** | Transform your ideas into beautiful designs | [Try Now](https://fluxai.pro/recraft-ai) |
 | **[Stable Diffusion 3.5](https://fluxai.pro/stable-diffusion-35)** | Breathtaking photorealistic landscapes | [Try Now](https://fluxai.pro/stable-diffusion-35) |
 | **[Ideogram AI](https://fluxai.pro/ideogram-ai)** | Create stunning AI art with advanced techniques | [Try Now](https://fluxai.pro/ideogram-ai) |
+| **[HiDream AI](https://fluxai.pro/hidream-ai)** | Transform ideas into stunning visuals with state-of-the-art AI | [Try Now](https://fluxai.pro/hidream-ai) |
 
 ## 🛠️ Image Editing Tools
 
