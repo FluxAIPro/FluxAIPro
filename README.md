@@ -13,6 +13,17 @@ FluxAI.pro is a powerful AI platform offering cutting-edge image and video gener
 | **[Stable Diffusion 3.5](https://fluxai.pro/stable-diffusion-35)** | Breathtaking photorealistic landscapes | [Try Now](https://fluxai.pro/stable-diffusion-35) |
 | **[Ideogram AI](https://fluxai.pro/ideogram-ai)** | Create stunning AI art with advanced techniques | [Try Now](https://fluxai.pro/ideogram-ai) |
 | **[HiDream AI](https://fluxai.pro/hidream-ai)** | Transform ideas into stunning visuals with state-of-the-art AI | [Try Now](https://fluxai.pro/hidream-ai) |
+| **[GPT Image](https://fluxai.pro/gpt-image)** | Transform detailed text descriptions into stunning visuals | [Try Now](https://fluxai.pro/gpt-image) |
+
+## 🖌️ Style Transfer
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **[Ghibli AI](https://fluxai.pro/styles/ghibli-ai)** | Transform images with magical Ghibli animation style | [Try Now](https://fluxai.pro/styles/ghibli-ai) |
+| **[Disney Pixar AI](https://fluxai.pro/styles/disney-pixar-ai)** | Apply beloved Pixar aesthetic to any image | [Try Now](https://fluxai.pro/styles/disney-pixar-ai) |
+| **[Pixel Art AI](https://fluxai.pro/styles/pixel-art-ai)** | Convert photos into authentic retro pixel art | [Try Now](https://fluxai.pro/styles/pixel-art-ai) |
+| **[Action Figure AI](https://fluxai.pro/styles/action-figure-ai)** | Turn subjects into realistic action figure collectibles | [Try Now](https://fluxai.pro/styles/action-figure-ai) |
+| **[Realistic AI](https://fluxai.pro/styles/realistic-ai)** | Enhance images with photorealistic detailing and lighting | [Try Now](https://fluxai.pro/styles/realistic-ai) |
 
 ## 🛠️ Image Editing Tools
 
@@ -61,6 +72,7 @@ FluxAI.pro is a powerful AI platform offering cutting-edge image and video gener
 | **[Virtual Try-On](https://fluxai.pro/virtual-try-on)** | Try clothes virtually with AI | [Try Now](https://fluxai.pro/virtual-try-on) |
 | **[AI Face Swap](https://fluxai.pro/ai-face-swap)** | Swap faces in images realistically | [Try Now](https://fluxai.pro/ai-face-swap) |
 | **[Consistent AI](https://fluxai.pro/consistent-character-ai)** | Create consistent characters across images | [Try Now](https://fluxai.pro/consistent-character-ai) |
+| **[Instant Character](https://fluxai.pro/tools/instant-character)** | Create consistent characters in seconds | [Try Now](https://fluxai.pro/tools/instant-character) |
 | **[AI Logo Generator](https://fluxai.pro/tools/ai-logo-generator)** | Create professional logos with AI | [Try Now](https://fluxai.pro/tools/ai-logo-generator) |
 | **[YouTube Thumbnail Maker](https://fluxai.pro/tools/youtube-thumbnail-maker)** | Design eye-catching thumbnails | [Try Now](https://fluxai.pro/tools/youtube-thumbnail-maker) |
 
