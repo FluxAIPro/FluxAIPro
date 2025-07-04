@@ -1,6 +1,6 @@
 # [FluxAI.pro](https://fluxai.pro) - Your Ultimate AI Image & Video Generation Platform
 
-![FluxAI Banner](https://s.detools.dev/assets/a-stunning-portrait-of-a-young-woman-rwvi09mrmh.jpeg)
+![FluxAI Banner](https://s.detools.dev/assets/kontext-5l1ujhgr75.jpeg)
 
 FluxAI.pro is a powerful AI platform offering cutting-edge image and video generation tools. From stunning portraits to dynamic videos, our suite of AI tools helps creators, designers, and businesses bring their visions to life.
 
@@ -9,6 +9,8 @@ FluxAI.pro is a powerful AI platform offering cutting-edge image and video gener
 | Tool | Description | Link |
 |------|-------------|------|
 | **[Flux Image](https://fluxai.pro/generate)** | Create stunning AI-generated images | [Try Now](https://fluxai.pro/generate) |
+| **[Flux Kontext](https://fluxai.pro/flux-kontext)** | Revolutionary consistency models for character and style preservation | [Try Now](https://fluxai.pro/flux-kontext) |
+| **[Imagen AI](https://fluxai.pro/imagen-ai)** | Google's latest image generation technology with exceptional quality | [Try Now](https://fluxai.pro/imagen-ai) |
 | **[Recraft AI](https://fluxai.pro/recraft-ai)** | Transform your ideas into beautiful designs | [Try Now](https://fluxai.pro/recraft-ai) |
 | **[Stable Diffusion 3.5](https://fluxai.pro/stable-diffusion-35)** | Breathtaking photorealistic landscapes | [Try Now](https://fluxai.pro/stable-diffusion-35) |
 | **[Ideogram AI](https://fluxai.pro/ideogram-ai)** | Create stunning AI art with advanced techniques | [Try Now](https://fluxai.pro/ideogram-ai) |
@@ -44,6 +46,12 @@ FluxAI.pro is a powerful AI platform offering cutting-edge image and video gener
 | **[Video Upscaler](https://fluxai.pro/ai-video-upscaler)** | Improve video quality with AI | [Try Now](https://fluxai.pro/ai-video-upscaler) |
 | **[Consistent Character Video](https://fluxai.pro/consistent-character-video)** | Create videos with consistent characters | [Try Now](https://fluxai.pro/consistent-character-video) |
 
+## 🎭 Video Effects
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **[Video Effects](https://fluxai.pro/video-effects)** | Dynamic video effects gallery with 15+ unique transformations including MochiMochi, BoomBoom, FuzzyFuzzy, DizzyDizzy, RocketRocket, Hand Heart, Fight, Kiss, Hug, Anime Figure, Yesterday, SurfSurf, Celebration, and SplashSplash | [Try Now](https://fluxai.pro/video-effects) |
+
 ## 📹 Video Templates
 
 | Template | Description | Link |
@@ -68,6 +76,7 @@ FluxAI.pro is a powerful AI platform offering cutting-edge image and video gener
 
 | Tool | Description | Link |
 |------|-------------|------|
+| **[Flux Kontext](https://fluxai.pro/flux-kontext)** | Revolutionary consistency models for character and style preservation | [Try Now](https://fluxai.pro/flux-kontext) |
 | **[Pulid Flux](https://fluxai.pro/pulid-flux)** | Generate futuristic identity cards | [Try Now](https://fluxai.pro/pulid-flux) |
 | **[Virtual Try-On](https://fluxai.pro/virtual-try-on)** | Try clothes virtually with AI | [Try Now](https://fluxai.pro/virtual-try-on) |
 | **[AI Face Swap](https://fluxai.pro/ai-face-swap)** | Swap faces in images realistically | [Try Now](https://fluxai.pro/ai-face-swap) |
